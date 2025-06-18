@@ -1,0 +1,1 @@
+Matrimonial is a website designed to help users find their perfect match. This project allows users to search for a partner based on criteria such as age, religion, caste, and gender. I developed this project using the MERN stack technology.
